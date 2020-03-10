@@ -1,7 +1,6 @@
 # Airflow Installation
 ## Steps
-1. Download the files from the drive and move it to airflow instance. Untar the airflow_download.tar.gz  file.
-https://drive.google.com/drive/u/2/folders/1XcJDzRMyGhXrS3v3aQpq_U2cTbbV6_sR
+1. Clone the repository into VM
 2. Create a new virtual python environment to test.
 3. Prerequisites: sudo yum install -y python36u python36u-libs python36u-devel python36u-pip gcc gcc-c++ libffi-devel mariadb-devel cyrus-sasl-devel setuptools
 4. source into the virtual environment and run the below command
